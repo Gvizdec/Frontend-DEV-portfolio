@@ -4,7 +4,8 @@ I'ts a portfolio of projects i made to show my skills in Java Script, CSS, HTML.
 Todo app
 
 My first JavaScript app is a fully functional to-do list that stands out from others you might find online. It allows you to save tasks and edit them later on.
-Technologies:
+
+Technologies i used to build this app:
 
 -HTML
 
