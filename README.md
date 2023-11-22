@@ -1,4 +1,4 @@
-# Frontend-DEV-portfolio
+# My JavaScript apps
 I'ts a portfolio of projects i made to show my skills in Java Script, CSS, HTML. I'm going to attach this repositorium to my resumes when aplying for job.
 
 Todo app
